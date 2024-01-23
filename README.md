@@ -2,6 +2,8 @@
 
 The DeFiStakingDapp is a decentralized application that enables users to stake ERC20 tokens into the platform and earn rewards. The staking process generates reward tokens per second, rewarding users based on their staked amount and duration. 
 
+![Staking Dapp]("https://ibb.co/5XZB2Gc")
+
 ### Key Tokens
 
 - **Stake Token:** This ERC20 token is used for staking within the DApp. Users need to approve this token for the staking contract before staking.
