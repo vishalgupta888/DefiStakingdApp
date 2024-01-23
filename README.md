@@ -1,11 +1,6 @@
-# StakingDappYT - Smart Contract & DApp Instructions
+# Overview of Staking DApp
 
-Welcome to the StakingDappYT project! This repository contains instructions for interacting with the smart contracts and deploying the DApp.
-
-## Overview of Staking DApp
-
-The StakingDappYT is a decentralized application that enables users to stake ERC20 tokens into the platform and earn rewards. The staking process generates reward tokens per second, rewarding users based on their staked amount and duration. 
-
+The DeFiStakingDapp is a decentralized application that enables users to stake ERC20 tokens into the platform and earn rewards. The staking process generates reward tokens per second, rewarding users based on their staked amount and duration. 
 
 ### Key Tokens
 
@@ -72,5 +67,5 @@ Before using the `getReward()` function, transfer the reward token to the stakin
    npm run dev
    ```
 ## Contact
-For any questions or inquiries, feel free to reach out to
+For any questions or inquiries, feel free to reach out to vguptae@gmail.com
 ---
